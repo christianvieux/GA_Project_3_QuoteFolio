@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Cwan7/famous-quotes-api.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/zackaryoconnor/Famous-Quotes.git
