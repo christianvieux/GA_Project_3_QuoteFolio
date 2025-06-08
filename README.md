@@ -2,7 +2,9 @@
 
 QuoteFolio is a full-stack MERN application that serves as a platform for quote enthusiasts to share, discover, and interact with inspirational quotes. Built as part of General Assembly's Software Engineering bootcamp, this project demonstrates modern web development practices and team collaboration.
 
-🌐 [Live App](http://44.203.74.69:3002/home)
+## 🌐 Live App
+
+Visit the live application [here.](http://44.203.74.69:3002/home)
 
 ## 🚀 About The Project
 
