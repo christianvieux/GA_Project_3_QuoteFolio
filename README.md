@@ -15,8 +15,8 @@ QuoteFolio allows users to:
    git clone --recursive https://github.com/christianvieux/GA_Project_3_QuoteFolio.git
    ```
 2. Navigate to each repository and follow their individual setup instructions:
-   - Go to the frontend folder and follow the README setup steps
-   - Go to the backend folder and follow the README setup steps
+   - Go to the ``frontend`` folder and follow the [README](https://github.com/zackaryoconnor/Famous-Quotes/blob/main/README.md) setup steps
+   - Go to the ``backend`` folder and follow the [README](https://github.com/Cwan7/famous-quotes-api/blob/main/README.md) setup steps
 ## 📂 Project Structure & Details
 > **For Recruiters & Contributors**: Detailed information about tech stack, setup instructions, and features can be found in each repository's README:
 - [Frontend Repository](https://github.com/zackaryoconnor/Famous-Quotes)
