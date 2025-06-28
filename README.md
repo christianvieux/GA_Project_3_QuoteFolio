@@ -12,7 +12,7 @@ QuoteFolio allows users to:
 ## 🛠 Setup Instructions
 1. Clone this monorepo with all submodules:
    ```bash
-   git clone --recursive https://github.com/christianvieux/GA_Project_2_Recipe.git
+   git clone --recursive https://github.com/christianvieux/GA_Project_3_QuoteFolio.git
    ```
 2. Navigate to each repository and follow their individual setup instructions:
    - Go to the frontend folder and follow the README setup steps
